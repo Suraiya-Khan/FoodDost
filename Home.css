@@ -1,6 +1,6 @@
 body{
     margin:auto;
-    background:rgb(217, 215, 215);
+    background:rgb(249, 243, 243);
 }
 
 
@@ -76,24 +76,24 @@ h1{
 }
 
 .tileContainer1{
-    height:260px;
+    height:260px; 
     width:100%;
     margin-left: 2%;
     margin-top: 3%;
     display: flex;
     box-shadow: 10px 20px 10px #3b2632;
     animation: dance 15s infinite;
-}
+} 
 
 .component1{
     width:50%;
 }
 
 .component1 > img{
-    width: 90%;
+    width: 90%;  
     height: 90%;
     border-radius: 10%;
-}
+} 
 
 .component2{
     width:45%;
