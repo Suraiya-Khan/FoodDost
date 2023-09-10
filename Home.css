@@ -1,6 +1,6 @@
 body{
     margin:auto;
-    background:rgb(249, 243, 243);
+    background:rgb(197, 191, 191);
 }
 
 
@@ -58,6 +58,7 @@ h1{
     width:20%;
     border:2px solid rgb(241, 237, 237);
     box-shadow: 10px 20px 10px #4f494d;
+    background-color: white;
 }
 
 .restContent{
@@ -73,6 +74,7 @@ h1{
     display: flex;
     box-shadow: 10px 20px 10px #3b2632;
     animation: dance 15s infinite;
+    background-color: white;
 }
 
 .tileContainer1{
@@ -83,6 +85,7 @@ h1{
     display: flex;
     box-shadow: 10px 20px 10px #3b2632;
     animation: dance 15s infinite;
+    background-color: white;
 } 
 
 .component1{
