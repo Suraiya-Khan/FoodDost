@@ -1,0 +1,145 @@
+body{
+    margin:auto;
+    background:rgb(217, 215, 215);
+}
+
+
+header{
+    height:60px;
+    /*border:5px solid hotpink;*/
+    background-color:black;
+}
+
+#brand{
+    float: left;
+    color:white;
+    font-size: 40px;
+    margin-top:1%;
+    margin-left:1%
+}
+
+#social{
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    color: beige;
+    margin-top: 1%;
+}
+
+#social > a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: beige;
+    text-decoration: none;
+    margin-left:-50%;
+}
+
+.socialLogo{
+    height:50px
+}
+
+
+#content{
+    width:85%;
+    margin-left:7.5%;
+    margin-top:3%;
+    display: flex;
+}
+
+h1{
+    text-align: center;
+    
+}
+
+.filter{
+    height:540px;
+    width:20%;
+    border:2px solid rgb(241, 237, 237);
+    box-shadow: 10px 20px 10px #4f494d;
+}
+
+.restContent{
+    height:600px;
+    width:70%;
+    margin-left:7%
+}
+.tileContainer{
+    height:260px;
+    width:100%;
+    margin-left: 2%;
+    margin-top: 0%;
+    display: flex;
+    box-shadow: 10px 20px 10px #3b2632;
+    animation: dance 15s infinite;
+}
+
+.tileContainer1{
+    height:260px;
+    width:100%;
+    margin-left: 2%;
+    margin-top: 3%;
+    display: flex;
+    box-shadow: 10px 20px 10px #3b2632;
+    animation: dance 15s infinite;
+}
+
+.component1{
+    width:50%;
+}
+
+.component1 > img{
+    width: 100%;
+    height: 100%;}
+
+.component2{
+    width:45%;
+    margin-left: 3%;
+    margin-top: 15%;
+}
+
+.compHeading{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -24%;
+    margin-bottom: 5%;
+}
+
+.compHeading > a{
+    color:#0c0b0c !important;
+    text-decoration: none;
+}
+
+.compSubHeading{
+    font-size: 20px;
+    color:rgb(69, 68, 68)
+    
+}
+
+/* Footer */
+footer{
+    /* height: 80px; */
+    /* border:10px double orange */
+    background-color: #3b2632;
+    text-align: center;
+    color: white
+}
+
+.footText{
+    font-size: 20px;
+}
+
+.footDiv{
+    display: inline-block;
+    width:32%;
+    border-right: 2px solid white;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.noborder{
+    border:none
+}
