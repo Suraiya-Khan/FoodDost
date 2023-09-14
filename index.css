@@ -254,8 +254,9 @@ ul{
     }
     .logo{
         height:110px;
-        width: 20%;
+        width: 8%;
     }
+
 }
 
 @media screen and (max-width:1400px){
@@ -264,7 +265,22 @@ ul{
     }
     .logo{
         height:110px;
-        width: 20%;
+        width: 10%;
+    }
+    #heading{
+        font-size:50px;
+        color:white;
+        margin-left: 30%;
+        margin-top: 17%;
+    }
+    
+    .dropdown{
+        height:40px;
+        width:50%;
+        /* border:2px solid white; */
+        margin-left: 30%;
+        margin-top: 24%;
+        
     }
 }
 
@@ -275,7 +291,22 @@ ul{
     }
     .logo{
         height:110px;
-        width: 20%;
+        width: 10%;
+    }
+    #heading{
+        font-size:50px;
+        color:white;
+        margin-left: 30%;
+        margin-top: 17%;
+    }
+    
+    .dropdown{
+        height:40px;
+        width:50%;
+        /* border:2px solid white; */
+        margin-left: 30%;
+        margin-top: 24%;
+        
     }
 }
 
@@ -285,7 +316,22 @@ ul{
     }
     .logo{
         height:110px;
-        width: 20%;
+        width: 10%;
+    }
+    #heading{
+        font-size:50px;
+        color:white;
+        margin-left: 30%;
+        margin-top: 17%;
+    }
+    
+    .dropdown{
+        height:40px;
+        width:50%;
+        /* border:2px solid white; */
+        margin-left: 30%;
+        margin-top: 24%;
+        
     }
 }
 
@@ -298,7 +344,22 @@ ul{
     }
     .logo{
         height:110px;
-        width: 20%;
+        width: 10%;
+    }
+    #heading{
+        font-size:50px;
+        color:white;
+        margin-left: 30%;
+        margin-top: 17%;
+    }
+    
+    .dropdown{
+        height:40px;
+        width:50%;
+        /* border:2px solid white; */
+        margin-left: 30%;
+        margin-top: 24%;
+        
     }
 
 }
@@ -309,7 +370,22 @@ ul{
     }
     .logo{
         height:110px;
-        width: 20%;
+        width: 14%;
+    }
+    #heading{
+        font-size:50px;
+        color:white;
+        margin-left: 30%;
+        margin-top: 17%;
+    }
+    
+    .dropdown{
+        height:40px;
+        width:50%;
+        /* border:2px solid white; */
+        margin-left: 30%;
+        margin-top: 24%;
+        
     }
 }
 
@@ -328,5 +404,20 @@ ul{
     .logo{
         height:110px;
         width: 20%;
+    }
+    #heading{
+        font-size:50px;
+        color:white;
+        margin-left: 30%;
+        margin-top: 17%;
+    }
+    
+    .dropdown{
+        height:40px;
+        width:50%;
+        /* border:2px solid white; */
+        margin-left: 30%;
+        margin-top: 24%;
+        
     }
 }
